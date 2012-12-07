@@ -27,3 +27,11 @@ This is [an example](http://example.com/ "Title") inline link.
 This is [an example](http://example.com/ "Title") inline link.
 ---
 *****
+<pre><code>
+#include<stdio.h>
+int main(void)
+{
+  printf("Hello World!");
+  return 0;
+}
+</pre></code>
