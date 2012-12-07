@@ -1,9 +1,9 @@
 ---
-layout: page
-title: Hello World!
-tagline: Supporting tagline
+layout: default
+title: Welcome to letaotor's blog!
+tagline: 
 ---
 {% include JB/setup %}
 
-##Welcome to letaotor\'blog
+##Welcome to letaotor's blog
 
