@@ -5,5 +5,7 @@ tagline:
 ---
 {% include JB/setup %}
 
-##Welcome to letaotor's blog
+---
+#Welcome to letaotor's blog
+---
 
